@@ -6,4 +6,4 @@ My name is Marcus Lewis, and I currently work as a content analyst for Bitvore. 
 
 - 🌱 I’m currently learning React, RedwoodJS.
 - 📫 How to reach me: <lewisemarcus@gmail.com>
-- Visit my portfolio: [Marcus Lewis's Portfolio](https://lewisemarcus.github.io/NewPortfolio/)
+- Visit my portfolio: [Marcus Lewis's Portfolio](https://marcuslewis.dev/)
